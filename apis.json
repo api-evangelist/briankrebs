@@ -1,0 +1,49 @@
+{
+    "name": "briankrebs",
+    "description": "<p><span>Brian Krebs worked as a reporter for The Washington Post from 1995 to 2009, authoring more than 1,300 blog posts for the Security Fix blog, as well as&nbsp;<\/span><a href=\"http:\/\/www.krebsonsecurity.com\/2009\/12\/story-driven-resume-my-best-work-2005-2009-3\/\" target=\"_blank\">hundreds of stories<\/a><span>&nbsp;for washingtonpost.com and The Washington Post newspaper, including eight front-page stories in the dead-tree edition and a Post Magazine cover piece on botnet operators.&nbsp;<\/span><\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/KrebsOnSecurity-Logo.jpg",
+    "tags": [
+        "have api",
+        "security blog",
+        "tech blog"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/briankrebs\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "briankrebs",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/KrebsOnSecurity-Logo.jpg",
+            "humanURL": "http:\/\/krebsonsecurity.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/briankrebs-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/briankrebs-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/krebsonsecurity.com\/feed\/"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/briankrebs"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/krebsonsecurity.com"
+        }
+    ]
+}
